@@ -1,2 +1,18 @@
-git-hub_terminal_token
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
 .DS_Store
+
+# Sensitive files
+.env
+git-hub_terminal_token
